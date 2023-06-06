@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "produtos-ms"
+		},
+		{
+			"name": "vendas-ms",
+			"path": "vendas-ms"
+		},
+		{
+			"path": "gateway"
+		},
+		{
+			"path": "eureka-server"
+		}
+	]
+}
